@@ -1,0 +1,17 @@
+@media screen and (max-width: 480px) {
+    .navbar ul{
+        display: none;
+    }
+
+    .hamburgur{
+        display: block;
+    }
+
+    .search input[type=search]{
+        display: none;
+    }
+
+    .item{
+        width: 100%;
+    }
+  }
